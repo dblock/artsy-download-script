@@ -1,4 +1,4 @@
-# Download High-Resolution Images from Artsy.com
+# Download High-Resolution Images from Artsy.net
 
 First, set up the dependencies. This requires a C compiler because of PIL.
 
@@ -15,4 +15,10 @@ make download
 ```
 
 Done!
+
+
+### Image Copyright
+
+Artsy does not permit downloading of all images. Please see [this announcement](https://artsy.net/post/christine-downloading-images-on-artsy) for which images may be downloaded for free and Artsy's [Terms of Use](https://artsy.net/terms).
+
 
